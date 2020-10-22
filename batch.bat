@@ -1,1 +1,1 @@
-mkdir C:\Users\viksindh\Documents\testing123\publicis
+mkdir C:\Users\viksindh\Documents\testing123\gurgaon
